@@ -1,0 +1,4 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+pnpx @ls-list/ls-limit && pnpx lint-staged
