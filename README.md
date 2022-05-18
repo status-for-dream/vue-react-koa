@@ -14,3 +14,9 @@
 ## flag-6 react18版本之后 API学习
 
 ## flag-7 koa 作为服务器 使用
+
+## 参考地址
+
+<https://github.com/jeddygong/vite-templates>
+<https://vitejs.cn/guide/ssr.html#conditional-logic>
+<https://github.com/vitejs/awesome-vite#ssr>
